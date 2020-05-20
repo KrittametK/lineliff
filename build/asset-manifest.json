@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/lineLiff/static/css/main.c33dccd1.chunk.css",
+    "main.js": "/lineLiff/static/js/main.e7adc6b1.chunk.js",
+    "main.js.map": "/lineLiff/static/js/main.e7adc6b1.chunk.js.map",
+    "runtime-main.js": "/lineLiff/static/js/runtime-main.c79ec331.js",
+    "runtime-main.js.map": "/lineLiff/static/js/runtime-main.c79ec331.js.map",
+    "static/js/2.f1fa409d.chunk.js": "/lineLiff/static/js/2.f1fa409d.chunk.js",
+    "static/js/2.f1fa409d.chunk.js.map": "/lineLiff/static/js/2.f1fa409d.chunk.js.map",
+    "index.html": "/lineLiff/index.html",
+    "precache-manifest.63692c66ce51b6608f6bc1c33d70b28b.js": "/lineLiff/precache-manifest.63692c66ce51b6608f6bc1c33d70b28b.js",
+    "service-worker.js": "/lineLiff/service-worker.js",
+    "static/css/main.c33dccd1.chunk.css.map": "/lineLiff/static/css/main.c33dccd1.chunk.css.map",
+    "static/js/2.f1fa409d.chunk.js.LICENSE.txt": "/lineLiff/static/js/2.f1fa409d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c79ec331.js",
+    "static/js/2.f1fa409d.chunk.js",
+    "static/css/main.c33dccd1.chunk.css",
+    "static/js/main.e7adc6b1.chunk.js"
+  ]
+}
